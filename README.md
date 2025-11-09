@@ -1,6 +1,5 @@
 # 🛠️ Bash Scripting Suite for System Maintenance
 
-**Author:** Pallab Pradhan  
 **Objective:** Automate essential Linux system maintenance tasks using Bash scripting.
 
 ## 🚀 Features
