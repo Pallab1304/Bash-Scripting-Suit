@@ -15,4 +15,4 @@ Run the main script:
 
 chmod +x menu.sh
 ./menu.sh
-Author- Pallab Pradhan
+Author- Parthadharya Basa
