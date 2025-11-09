@@ -26,4 +26,5 @@
 1. Make the main script executable:
    ```bash
    chmod +x menu.sh
-
+   ./menu.sh
+Author- Pallab Pradhan
